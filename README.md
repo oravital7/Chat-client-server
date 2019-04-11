@@ -1,3 +1,3 @@
 # Chat-client-server
 
-Multi Chat written in java, by TCP protocol
+Multi Chat written in java, over TCP protocol
